@@ -1,5 +1,5 @@
-# This is basically convenient webhosting for my papers. 
+This is basically convenient webhosting for my papers. 
 
-## Currently working on a series about cybernetics & culture, as well as some others addressing the noosphere. 
+Currently working on a series about cybernetics & culture w/ first piece releaase in April, as well as some other papers in work addressing the noosphere. 
 
-## Stay tuned. 
+Stay tuned. 
